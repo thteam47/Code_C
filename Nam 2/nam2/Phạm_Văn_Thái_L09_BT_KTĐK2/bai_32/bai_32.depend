@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560865874 source:d:\desktop\bai_tap_c\bai_ve_nha\bai_tap_kiem_tra\bai_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

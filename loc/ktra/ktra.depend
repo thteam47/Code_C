@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592806015 source:d:\code c\loc\ktra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
