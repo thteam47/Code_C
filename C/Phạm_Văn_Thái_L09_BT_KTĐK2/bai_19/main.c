@@ -16,6 +16,7 @@ struct danhsach {
 typedef struct danhsach DS;
 //nhap thong tin 1 sinh vien
 void thong_tin_1_sinh_vien (SV *sv) {
+
     do {
         printf("\nHo ten: ");
         fflush(stdin);

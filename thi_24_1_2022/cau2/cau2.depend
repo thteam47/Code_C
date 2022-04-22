@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642991658 source:d:\code c\thi_24_1_2022\cau2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
